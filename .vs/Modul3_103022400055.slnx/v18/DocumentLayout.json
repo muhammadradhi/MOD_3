@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D7CB5F1-DF75-4545-827C-B0823A1ED468}|Modul3_103022400055\\Modul3_103022400055.csproj|d:\\sem 4 prak kpl\\modul3_103022400055\\modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D7CB5F1-DF75-4545-827C-B0823A1ED468}|Modul3_103022400055\\Modul3_103022400055.csproj|solutionrelative:modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{218DB20C-130F-ABD7-EC13-0D141B1E1BF0}|Modul3_103022400055\\Modul3_103022400055.csproj|d:\\sem 4 prak kpl\\modul3_103022400055\\modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218DB20C-130F-ABD7-EC13-0D141B1E1BF0}|Modul3_103022400055\\Modul3_103022400055.csproj|solutionrelative:modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D7CB5F1-DF75-4545-827C-B0823A1ED468}|Modul3_103022400055\\Modul3_103022400055.csproj|d:\\sem 4 prak kpl\\modul3_103022400055\\modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{218DB20C-130F-ABD7-EC13-0D141B1E1BF0}|Modul3_103022400055\\Modul3_103022400055.csproj|d:\\sem 4 prak kpl\\modul3_103022400055\\modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{218DB20C-130F-ABD7-EC13-0D141B1E1BF0}|Modul3_103022400055\\Modul3_103022400055.csproj|solutionrelative:modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7CB5F1-DF75-4545-827C-B0823A1ED468}|Modul3_103022400055\\Modul3_103022400055.csproj|D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6D7CB5F1-DF75-4545-827C-B0823A1ED468}|Modul3_103022400055\\Modul3_103022400055.csproj|solutionrelative:modul3_103022400055\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\Modul3_103022400055\\Form1.cs",
-              "RelativeDocumentMoniker": "Modul3_103022400055\\Form1.cs",
-              "ToolTip": "D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\Modul3_103022400055\\Form1.cs",
-              "RelativeToolTip": "Modul3_103022400055\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T06:56:22.397Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +33,32 @@
               "ToolTip": "D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\Modul3_103022400055\\Form1.cs [Design]",
               "RelativeToolTip": "Modul3_103022400055\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T06:46:18.274Z",
+              "WhenOpened": "2026-03-14T07:37:28.936Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\Modul3_103022400055\\Form1.cs",
+              "RelativeDocumentMoniker": "Modul3_103022400055\\Form1.cs",
+              "ToolTip": "D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\Modul3_103022400055\\Form1.cs",
+              "RelativeToolTip": "Modul3_103022400055\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:56:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\Modul3_103022400055\\Form1.cs",
+              "RelativeDocumentMoniker": "Modul3_103022400055\\Form1.cs",
+              "ToolTip": "D:\\SEM 4 PRAK KPL\\Modul3_103022400055\\Modul3_103022400055\\Form1.cs [Design]",
+              "RelativeToolTip": "Modul3_103022400055\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:46:18.274Z"
             }
           ]
         }
